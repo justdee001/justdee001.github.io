@@ -44,7 +44,7 @@ Done.
 I have added a new post my computer and now I want to upadte my github pages site.
 How to push your commits to the GitHub repository from terminal? 
 
-First step - is to check status and the branch 
+First step - is to check status and the branch.
 ```console
 $ git add status
 
@@ -56,7 +56,37 @@ Changes not staged for commit:
 
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	_posts/2021-02-10-New-post.markdown
+	_posts/2021-02-10-new-post.markdown
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
+
+Second step - is to save the progress. 
+ ```console
+$ git add .
+```
+now check git status and it will show:
+```console
+$ git add .
+On branch gh-pages
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .DS_Store
+	new file:   _posts/2021-02-10-new-post.markdown
+```
+
+Now commit changes:
+```console
+$ git commit -m "Something Meaningful"
+
+[new 53df651]  Something Meaningful
+ 2 files changed, 62 insertions(+)
+ create mode 100644 _posts/2021-02-10-new-post.markdown
+```
+Third step - is to send your changes to the remote repository.
+
+```console
+$ git push origin gh-pages
+# Use git push with your branch name and done.
+```
+Its done, go check out github pages or check your domain.
