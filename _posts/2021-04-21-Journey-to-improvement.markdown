@@ -22,7 +22,7 @@ From tommorow I have decided to start my morning like Hal.
 * R - Reading
 * S - Scribing
 
-I will be following 10 minutes of guided meditation for silence. I have written few affirmations based on my current situations. Furthermore, I will do yoga with 5 minutes of abs workout and two laps of running. I will continue reading ‘The heartfull ways’. Scribing is what I do on a regular basis. For the first day the sequence and time which I will follow is:
+I will be following 10 minutes of guided meditation for silence. I have written few affirmations based on my current situations. Furthermore, I will do yoga with 5 minutes of abs workout and two laps of running. I will continue reading ‘The heartfullness ways’. Scribing is what I do on a regular basis. For the first day the sequence and time which I will follow is:
 * Exercise: 10 minutes. 
 * Silence: 10 minutes
 * Reading: 20 minutes
@@ -44,6 +44,19 @@ I will update my progress here in this table.
   </tr>
   <tr>
     <td>Day 1</td>
+    <td>Yes </td>
+    <td>Yes </td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td colspan="7">I woke up late, but I did all of it in the span of one and half hour. I did yoga for 10 minutes, then guided meditation, then read 'The heart fullness ways'. Reading took more than 30 minutes. I felt affirmation is new for me, so it will take time to get hang of it. I told little of good things to dear diary. For tomorrow, I will wake up early and will try to complete everything in one hour. Half of the things were easy, but few are different and new. The first day feels good, I don't know how fruitful it will be for my soul, but I am sure it will help.</td>
+  
+  </tr>
+ <tr>
+    <td>Day 2</td>
     <td></td>
     <td></td>
     <td></td>
@@ -51,5 +64,8 @@ I will update my progress here in this table.
     <td></td>
     <td></td>
   </tr>
- 
+  <tr>
+    <td colspan="7"> </td>
+  
+  </tr>
 </table>
