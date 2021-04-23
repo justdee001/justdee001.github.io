@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Journey to improvement"
-date:   2021-04-22 11:10:16 +0530
+date:   2021-04-23 11:10:16 +0530
 categories: jekyll update
 ---
 ##### 2021-04-16 11:46 am
@@ -57,6 +57,20 @@ I will update my progress here in this table.
   </tr>
  <tr>
     <td>Day 2</td>
+    <td>No</td>
+    <td>No</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td colspan="7">Last night I had a fever. The head was warm and heavy. Hence, I woke up very late. Yesterday I tried waking up early, but today I did not. And I knowingly gave up on all of it. My day starts with tea. Next, I was supposed to begin with meditation, but I started reading. After completing the reading, I thought of doing meditation, searched YouTube for guided meditation. I was one step away, but I couldn't. It is not a massive deal, but I feel a bit low for this part. My body and mind automatically choose comfort, and it is like resistance or as a big wall, and at that point, all motivation efforts go to zero. From above, it seems like I failed at performing such a simple task. <br/>
+But this has a positive side too. On a subconscious level, I was aware of my affirmations. I felt like I was mentally aware of what I was doing and what I was not. For tomorrow, I won't be able to wake up early as I am unfit, but I will prove my best to the rest of it.</td>
+  
+  </tr>
+  <tr>
+    <td>Day 3</td>
     <td></td>
     <td></td>
     <td></td>
