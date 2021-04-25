@@ -94,7 +94,7 @@ But this has a positive side too. On a subconscious level, I was aware of my aff
   </tr>
   <tr>
     <td colspan="8">This morning I woke up late again. In the present circumstances, I should include the wake-up task with other tasks in the table. From tomorrow, I will fill my wake-up timing. This day, I performed all of it with ease. Now I have to maintain this. Following the concept of 'Keep doing' is the key. I don't comprehend how it will aid me in the long run, and I am not expecting any massive transformation, but I am enjoying the process. The feeling of 'I can do it' transmits an ample amount of self-confidence. I feel like I have less time to complete tasks I have to handle. Maybe because my input is way less of what is required, I will try to give more effort. The main aim for tomorrow is to wake up early, even after 3 to 4 hours of sleep, and I will do it. Fixing the sleep cycle is a daunting task.  </td>
-  
+   
   </tr>
   <tr>
     <td>Day 5</td>
