@@ -41,6 +41,7 @@ I will update my progress here in this table.
     <th>E</th>
     <th>R</th>
     <th>S</th>
+    <th></th>
   </tr>
   <tr>
     <td>Day 1</td>
@@ -52,7 +53,7 @@ I will update my progress here in this table.
     <td>Yes</td>
   </tr>
   <tr>
-    <td colspan="7">I woke up late, but I did all of it in the span of one and half hour. I did yoga for 10 minutes, then guided meditation, then read 'The heart fullness ways'. Reading took more than 30 minutes. I felt affirmation is new for me, so it will take time to get hang of it. I told little of good things to dear diary. For tomorrow, I will wake up early and will try to complete everything in one hour. Half of the things were easy, but few are different and new. The first day feels good, I don't know how fruitful it will be for my soul, but I am sure it will help.</td>
+    <td colspan="8">I woke up late, but I did all of it in the span of one and half hour. I did yoga for 10 minutes, then guided meditation, then read 'The heart fullness ways'. Reading took more than 30 minutes. I felt affirmation is new for me, so it will take time to get hang of it. I told little of good things to dear diary. For tomorrow, I will wake up early and will try to complete everything in one hour. Half of the things were easy, but few are different and new. The first day feels good, I don't know how fruitful it will be for my soul, but I am sure it will help.</td>
   
   </tr>
  <tr>
@@ -65,12 +66,39 @@ I will update my progress here in this table.
     <td>Yes</td>
   </tr>
   <tr>
-    <td colspan="7">Last night I had a fever. The head was warm and heavy. Hence, I woke up very late. Yesterday I tried waking up early, but today I did not. And I knowingly gave up on all of it. My day starts with tea. Next, I was supposed to begin with meditation, but I started reading. After completing the reading, I thought of doing meditation, searched YouTube for guided meditation. I was one step away, but I couldn't. It is not a massive deal, but I feel a bit low for this part. My body and mind automatically choose comfort, and it is like resistance or as a big wall, and at that point, all motivation efforts go to zero. From above, it seems like I failed at performing such a simple task. <br/>
+    <td colspan="8">Last night I had a fever. The head was warm and heavy. Hence, I woke up very late. Yesterday I tried waking up early, but today I did not. And I knowingly gave up on all of it. My day starts with tea. Next, I was supposed to begin with meditation, but I started reading. After completing the reading, I thought of doing meditation, searched YouTube for guided meditation. I was one step away, but I couldn't. It is not a massive deal, but I feel a bit low for this part. My body and mind automatically choose comfort, and it is like resistance or as a big wall, and at that point, all motivation efforts go to zero. From above, it seems like I failed at performing such a simple task. <br/>
 But this has a positive side too. On a subconscious level, I was aware of my affirmations. I felt like I was mentally aware of what I was doing and what I was not. For tomorrow, I won't be able to wake up early as I am unfit, but I will prove my best to the rest of it.</td>
   
   </tr>
   <tr>
     <td>Day 3</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td colspan="8">Once more, I woke up late, but I performed all of it. In the beginning, I did meditation after that reading, affirmations and visualization. I was thinking of skipping exercise initially, but affirmation kicked in. I usually do exercise after meditation. I have an affirmation that says 'I am 100% committed to miracle mornings', and eventually exercise happened in the end. The day was productive if compared to other days. I tried visualizing and it kind of worked, and at this point, it will be too early to state my opinion on it. But I have a long way to advance to fix my life and habits. I am still feeling anxious about work. Guilt and loss for the past keep on haunting me. But I am more optimistic than before. I feel like I am capable of achieving what I devise, irrespective of the outcome. At the minimum, I am trying.</td>
+  
+  </tr>
+  <tr>
+    <td>Day 4</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+  </tr>
+  <tr>
+    <td colspan="8">This morning I woke up late again. In the present circumstances, I should include the wake-up task with other tasks in the table. From tomorrow, I will fill my wake-up timing. This day, I performed all of it with ease. Now I have to maintain this. Following the concept of 'Keep doing' is the key. I don't comprehend how it will aid me in the long run, and I am not expecting any massive transformation, but I am enjoying the process. The feeling of 'I can do it' transmits an ample amount of self-confidence. I feel like I have less time to complete tasks I have to handle. Maybe because my input is way less of what is required, I will try to give more effort. The main aim for tomorrow is to wake up early, even after 3 to 4 hours of sleep, and I will do it. Fixing the sleep cycle is a daunting task.  </td>
+  
+  </tr>
+  <tr>
+    <td>Day 5</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -79,7 +107,7 @@ But this has a positive side too. On a subconscious level, I was aware of my aff
     <td></td>
   </tr>
   <tr>
-    <td colspan="7"> </td>
+    <td colspan="8">  </td>
   
   </tr>
 </table>
