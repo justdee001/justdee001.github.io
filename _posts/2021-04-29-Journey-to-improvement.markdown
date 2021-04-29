@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Journey to improvement"
-date:   2021-04-26 11:10:16 +0530
+date:   2021-04-29 11:10:16 +0530
 categories: jekyll update
 --- 
 ##### 2021-04-16 11:46 am
@@ -112,16 +112,46 @@ But this has a positive side too. On a subconscious level, I was aware of my aff
   </tr>
    <tr>
     <td>Day 6</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>10:00 am</td>
   </tr>
   <tr>
-    <td colspan="8">  </td>
+    <td colspan="8">2021-04-27: Today was one of the worst days of my life.</td>
+  
+  </tr>
+
+  <tr>
+    <td>Day 7</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>No</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>No</td>
+    <td>11:00 am</td>
+  </tr>
+  <tr>
+    <td colspan="8">2021-04-28: My thoughts are out of my control. Mediation was hard to do. Nothing feels good when the heart is heavy.</td>
+  
+  </tr>
+
+  <tr>
+    <td>Day 7</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>No</td>
+    <td>Yes</td>
+    <td>Yes</td>
+    <td>No</td>
+    <td>11:00 am</td>
+  </tr>
+  <tr>
+    <td colspan="8">2021-04-29: I found difficulty in doing meditation, and again I could not do visualization. I read, but I did it just for the sake of completing it as a task. Earlier I was reading without any inner resistance. Today I was not in the mood of doing any of this. But I tried, long way to go. I am not in the mood to quitting. </td>
   
   </tr>
 </table>
